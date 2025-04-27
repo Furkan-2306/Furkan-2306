@@ -33,3 +33,5 @@ src="https://img.shields.io/github/followers/furkan-2306?logo=github&style=for-t
 <a href="http://www.github.com/furkan-2306"><img src="https://github-readme-stats.vercel.app/api?username=furkan-2306&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="furkan-2306's GitHub stats" /></a>
 
 <a href="http://www.github.com/furkan-2306"><img src="https://github-readme-streak-stats.herokuapp.com/?user=furkan-2306&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+![snake gif](https://github.com/Furkan-2306/Furkkan-2306/blob/output/github-contribution-grid-snake.gif)
